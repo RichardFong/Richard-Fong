@@ -1,2 +1,2 @@
-# Richard-Fong
-My name is Richard, how are you?
+# Richard-Fong.github.io
+How are you? My name is Richard
