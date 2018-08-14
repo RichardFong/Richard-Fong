@@ -1,1 +1,1 @@
-# RichardFong.github.io
+# Richard Fong.github.io
